@@ -1,6 +1,6 @@
 ## Income Predictor
 
-Using a dataset (*"Adult Data Set"*) from the [UCI Machine-Learning Repository](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data) we can predict based on a number of factors whether or not someone's income will be greater than $50,000.
+Using a dataset (*"Adult Data Set"*) from the [UCI Machine-Learning Repository](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data) we can predict, based on a number of factors, whether or not someone's income will be greater than $50,000.
 
 **Technique:**
 
