@@ -2,7 +2,7 @@
 
 Using a dataset (*"Adult Data Set"*) from the [UCI Machine-Learning Repository](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data) we can predict based on a number of factors whether or not someone's income will be greater than $50,000.
 
-**The technique:**
+**Technique:**
 
 The approach is to create a ***classifier*** - a program that takes a new example record and, based on previous examples, determines which 'class' it belongs to. In this problem we consider attributes of records and separate these into two broad classes, <=50K and >50K.
 
@@ -12,7 +12,7 @@ We must train the classifier to establish an internal model of the patterns that
 
 We need to write a program to find the patterns in the training set.
 
-**Process overview:**
+**Process Overview:**
 
 1) Create training set from data.
 2) Create classifier using training dataset to determine separator values for each attribute.
